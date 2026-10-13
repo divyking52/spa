@@ -7,3 +7,5 @@ package-lock.json
 media-response.json
 .env
 .env.*
+
+.vercel
